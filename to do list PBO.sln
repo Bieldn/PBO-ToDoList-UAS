@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "to do list PBO", "to do list PBO\to do list PBO.csproj", "{1477E7D6-6146-4AF4-9DB7-10D8F47D35F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1477E7D6-6146-4AF4-9DB7-10D8F47D35F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1477E7D6-6146-4AF4-9DB7-10D8F47D35F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1477E7D6-6146-4AF4-9DB7-10D8F47D35F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1477E7D6-6146-4AF4-9DB7-10D8F47D35F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BD3F88C-1DB4-4EC6-8CF7-C8246F8D70BC}
+	EndGlobalSection
+EndGlobal
